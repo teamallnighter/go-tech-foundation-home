@@ -28,6 +28,11 @@ page_sections:
     image: "/uploads/2021/01/01/artificial-intelligence-3685928_1920.png"
     alt_text: Product Shot
   background_image: "/uploads/2021/01/01/cf701732ece053881825d9ae9b96129c.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/01/01/high-res-abstract-backgrounds-1.jpg"
+  caption: All Available Blocks
+  slug: blocks
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -40,17 +45,6 @@ page_sections:
   media:
     image: "/uploads/2021/01/01/technology-concept-vector-abstract-polygonal-human-brain-shape-artificial-intelligence-with-line-dots-shadow-dark-blue-color-background_43778-438.jpg"
     alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   slug: responsive
@@ -59,11 +53,6 @@ page_sections:
     The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
