@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Go Tech Foundation
-date: 2021-01-01 23:00:00 +0000
+date: 2021-01-01T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -32,6 +32,20 @@ page_sections:
   block: cta-bar
   content: ''
   email_recipient: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
