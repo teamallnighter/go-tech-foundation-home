@@ -30,7 +30,7 @@ page_sections:
   background_image: "/uploads/2021/01/01/cf701732ece053881825d9ae9b96129c.jpg"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/01/01/high-res-abstract-backgrounds-1.jpg"
+  image: "/uploads/2021/01/01/untitled-design-2.jpg"
   caption: All Available Blocks
   slug: blocks
 - template: content-feature
