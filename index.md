@@ -35,9 +35,12 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: The world is rapidly changing.
+    slug: about-go
+    content: GO provides a socially responsible structure for the development of disruptive
+      technologies.<br><br>Under a non-profit umbrella, profitable hi-tech solutions
+      are developed and the profits from each revenue stream are re-directed back
+      into the community in the form of reinvestment into future technologies.
   col_2:
     headline: ''
     slug: ''
