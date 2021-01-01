@@ -50,9 +50,14 @@ page_sections:
       is owned and operated by GO, which means you can support the movement by switching
       your energy provider.Making the switch is easy online!
   col_3:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: COVID-19 Energy Support Program
+    slug: covid-support
+    content: In partnership with Go Tech &amp; EMCO EnergyAs Calgary’s only community-owned
+      energy marketer, we’re offering local energy consumers hit by the current pandemic
+      relief by switching to our new promotional energy rate at no upfront cost to
+      them.The COVID-19 pandemic has disrupted homes and businesses across Alberta.
+      It is in these hard times that our community can stand together to build a strong
+      foundation for a sustainable future.Making the switch is easy online!
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
