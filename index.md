@@ -17,13 +17,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Go Tech Foundation
+  content: "<strong>GO Technology Foundation anticipates and integrates disruptive
+    technology</strong><br>"
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: ''
+    button_text: Learn More
   image:
     image: "/uploads/2021/01/01/artificial-intelligence-3685928_1920.png"
     alt_text: Product Shot
