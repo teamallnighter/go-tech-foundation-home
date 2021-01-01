@@ -1,25 +1,19 @@
 ---
 layout: blocks
 title: Go Tech Foundation
-date: 2017-11-22T23:00:00.000+00:00
+date: 2021-01-01 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2021/01/01/imageedit_4_3683136738.png"
   navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  - link: ''
+    link_text: Facebook
+  - link: ''
+    link_text: News
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: ''
+    button_text: Get Involved
 - template: hero-banner-w-image
   block: hero-2
   slug: features
