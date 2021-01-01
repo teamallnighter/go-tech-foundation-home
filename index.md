@@ -27,7 +27,7 @@ page_sections:
   image:
     image: "/uploads/2021/01/01/artificial-intelligence-3685928_1920.png"
     alt_text: Product Shot
-  background_image: "/uploads/2021/01/01/5bd0bdc12d414-wallpaper-preview.jpg"
+  background_image: "/uploads/2021/01/01/4k-dark-blue-lines-grid-lines-wallpaper-thumb.jpg"
 - template: signup-bar
   block: cta-bar
   content: ''
