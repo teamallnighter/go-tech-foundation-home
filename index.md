@@ -42,9 +42,13 @@ page_sections:
       are developed and the profits from each revenue stream are re-directed back
       into the community in the form of reinvestment into future technologies.
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: EMCO is empowering communities
+    slug: emco
+    content: EMCO Energy is GO’s first revenue stream.As Calgary’s only community-owned
+      energy marketer, we provide competitive electricity, natural gas and certified
+      green energy rates for residential and commercial consumers anywhere in Alberta.EMCO
+      is owned and operated by GO, which means you can support the movement by switching
+      your energy provider.Making the switch is easy online!
   col_3:
     headline: ''
     slug: ''
