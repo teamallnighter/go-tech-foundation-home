@@ -61,5 +61,17 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/01/01/technology-concept-vector-abstract-polygonal-human-brain-shape-artificial-intelligence-with-line-dots-shadow-dark-blue-color-background_43778-438.jpg"
+  image:
+    image: "/uploads/2021/01/01/untitled-design-2.jpg"
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
