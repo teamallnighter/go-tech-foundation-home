@@ -31,8 +31,8 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/01/untitled-design-2.jpg"
-  caption: All Available Blocks
-  slug: blocks
+  caption: emco
+  slug: emco
 - template: content-feature
   block: feature-1
   media_alignment: Left
